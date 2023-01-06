@@ -4,6 +4,7 @@
 ?>
 <!DOCTYPE html>
 <html>
+    
     <head>
         <link rel="shortcut icon" href="img/lifestyleStore.png" />
         <title>Projectworlds Store</title>
